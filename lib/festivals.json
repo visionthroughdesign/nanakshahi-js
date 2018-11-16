@@ -1,11 +1,13 @@
 {
   "festivals": {
-    "1": [{
+    "1": [
+      {
         "date": {
           "gregorianMonth": 3,
           "gregorianDate": 14
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਅਰੰਬ ਨਵਾਂ ਸਾਲ",
             "en": "Nanakshahi New Year"
           },
@@ -24,58 +26,70 @@
           "gregorianMonth": 3,
           "gregorianDate": 15
         },
-        "holidays": [{
-          "pa": "ਦਿੱਲੀ ਫ਼ਤਹਿ ਭਾਈ ਬਘੇਲ ਸਿੰਘ",
-          "en": "Delhi Fateh Bhai Baghel Singh"
-        }]
+        "holidays": [
+          {
+            "pa": "ਦਿੱਲੀ ਫ਼ਤਹਿ ਭਾਈ ਬਘੇਲ ਸਿੰਘ",
+            "en": "Delhi Fateh Bhai Baghel Singh"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 3,
           "gregorianDate": 19
         },
-        "holidays": [{
-          "pa": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਸਾਹਿਬ ਜੀ",
-          "en": "Joti Jot Guru Hargobind Sahib Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਸਾਹਿਬ ਜੀ",
+            "en": "Joti Jot Guru Hargobind Sahib Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 3,
           "gregorianDate": 25
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਸੁਬੇਗ ਸਿੰਘ ਅਤੇ ਭਾਈ ਸ਼ਾਹਬਾਜ਼ ਸਿੰਘ ਜੀ",
-          "en": "Shaheedi Bhai Subeg Singh and Bhai Shahbaz Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਸੁਬੇਗ ਸਿੰਘ ਅਤੇ ਭਾਈ ਸ਼ਾਹਬਾਜ਼ ਸਿੰਘ ਜੀ",
+            "en": "Shaheedi Bhai Subeg Singh and Bhai Shahbaz Singh Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 4,
           "gregorianDate": 9
         },
-        "holidays": [{
-          "pa": "ਜਨਮ ਸਾਹਿਬਜ਼ਾਦਾ ਬਾਬਾ ਜੁਝਾਰ ਸਿੰਘ ਜੀ",
-          "en": "Birthday Sahibzada Baba Jujhar Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜਨਮ ਸਾਹਿਬਜ਼ਾਦਾ ਬਾਬਾ ਜੁਝਾਰ ਸਿੰਘ ਜੀ",
+            "en": "Birthday Sahibzada Baba Jujhar Singh Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 4,
           "gregorianDate": 13
         },
-        "holidays": [{
-          "pa": "੧੯੭੮ ਵੈਸਾਖੀ ਅੰਮ੍ਰਿਤਸਰ ਸ਼ਹੀਦੀ ਸਾਕਾ",
-          "en": "1978 Vaisakhi Amritsar Shaheedi Saka"
-        }]
+        "holidays": [
+          {
+            "pa": "੧੯੭੮ ਵੈਸਾਖੀ ਅੰਮ੍ਰਿਤਸਰ ਸ਼ਹੀਦੀ ਸਾਕਾ",
+            "en": "1978 Vaisakhi Amritsar Shaheedi Saka"
+          }
+        ]
       }
     ],
-    "2": [{
+    "2": [
+      {
         "date": {
           "gregorianMonth": 4,
           "gregorianDate": 14
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਸੰਗਰਾਂਦ ਵੈਸਾਖ",
             "en": "Sangrand Vaisakh"
           },
@@ -94,7 +108,8 @@
           "gregorianMonth": 4,
           "gregorianDate": 16
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਗੁਰਗੱਦੀ ਗੁਰੂ ਅਮਰ ਦਾਸ ਜੀ",
             "en": "Gurgaddi Guru Amar Das Ji"
           },
@@ -117,7 +132,8 @@
           "gregorianMonth": 4,
           "gregorianDate": 18
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
             "en": "Parkash Guru Angad Dev Ji"
           },
@@ -132,180 +148,218 @@
           "gregorianMonth": 4,
           "gregorianDate": 21
         },
-        "holidays": [{
-          "pa": "ਜਨਮ ਭਗਤ ਧੰਨਾ ਜੀ",
-          "en": "Birthday Bhagat Dhanna Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜਨਮ ਭਗਤ ਧੰਨਾ ਜੀ",
+            "en": "Birthday Bhagat Dhanna Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 5,
           "gregorianDate": 2
         },
-        "holidays": [{
-          "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
-          "en": "Parkash Guru Arjan Dev Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+            "en": "Parkash Guru Arjan Dev Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 5,
           "gregorianDate": 4
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਚਾਲੀ ਮੁਕਤੇ (ਮੁਕਤਸਰ ਸਾਹਿਬ)",
-          "en": "Shaheedi Forty Mukte (Muktsar Sahib)"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਚਾਲੀ ਮੁਕਤੇ (ਮੁਕਤਸਰ ਸਾਹਿਬ)",
+            "en": "Shaheedi Forty Mukte (Muktsar Sahib)"
+          }
+        ]
       }
     ],
-    "3": [{
+    "3": [
+      {
         "date": {
           "gregorianMonth": 5,
           "gregorianDate": 15
         },
-        "holidays": [{
-          "pa": "ਸੰਗਰਾਂਦ ਜੇਠ",
-          "en": "Sangrand Jeth"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸੰਗਰਾਂਦ ਜੇਠ",
+            "en": "Sangrand Jeth"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 5,
           "gregorianDate": 17
         },
-        "holidays": [{
-          "pa": "ਛੋਟਾ ਘੱਲੂਘਾਰਾ",
-          "en": "Small Ghallughara"
-        }]
+        "holidays": [
+          {
+            "pa": "ਛੋਟਾ ਘੱਲੂਘਾਰਾ",
+            "en": "Small Ghallughara"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 5,
           "gregorianDate": 23
         },
-        "holidays": [{
-          "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਅਮਰ ਦਾਸ ਜੀ",
-          "en": "Parkash Guru Amar Das Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਅਮਰ ਦਾਸ ਜੀ",
+            "en": "Parkash Guru Amar Das Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 6,
           "gregorianDate": 1
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਮਹਿੰਗਾ ਸਿੰਘ ਬੱਬਰ",
-          "en": "Shaheedi Bhai Mehnga Singh Babbar"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਮਹਿੰਗਾ ਸਿੰਘ ਬੱਬਰ",
+            "en": "Shaheedi Bhai Mehnga Singh Babbar"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 6,
           "gregorianDate": 4
         },
-        "holidays": [{
-          "pa": "ਸ਼੍ਰੀ ਅਕਾਲ ਤਖ਼ਤ ਸਾਹਿਬ 'ਤੇ ਹਮਲਾ",
-          "en": "1984 Attack on Sri Akal Takht Sahib"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼੍ਰੀ ਅਕਾਲ ਤਖ਼ਤ ਸਾਹਿਬ 'ਤੇ ਹਮਲਾ",
+            "en": "1984 Attack on Sri Akal Takht Sahib"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 6,
           "gregorianDate": 6
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਜਰਨੈਲ ਸਿੰਘ ਜੀ ਭਿੰਡਰਾਂਵਾਲੇ",
-          "en": "Shaheedi Baba Jarnail Singh Ji Bhindranwale"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਜਰਨੈਲ ਸਿੰਘ ਜੀ ਭਿੰਡਰਾਂਵਾਲੇ",
+            "en": "Shaheedi Baba Jarnail Singh Ji Bhindranwale"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 6,
           "gregorianDate": 11
         },
-        "holidays": [{
-          "pa": "ਗੁਰਗੱਦੀ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਸਾਹਿਬ ਜੀ",
-          "en": "Gurgaddi Guru Hargobind Sahib Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਗੁਰਗੱਦੀ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਸਾਹਿਬ ਜੀ",
+            "en": "Gurgaddi Guru Hargobind Sahib Ji"
+          }
+        ]
       }
     ],
-    "4": [{
+    "4": [
+      {
         "date": {
           "gregorianMonth": 6,
           "gregorianDate": 15
         },
-        "holidays": [{
-          "pa": "ਸੰਗਰਾਂਦ ਹਾੜ",
-          "en": "Sangrand Harh"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸੰਗਰਾਂਦ ਹਾੜ",
+            "en": "Sangrand Harh"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 6,
           "gregorianDate": 16
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਦਿਵਸ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
-          "en": "Shaheedi Divas Guru Arjan Dev Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਦਿਵਸ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+            "en": "Shaheedi Divas Guru Arjan Dev Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 6,
           "gregorianDate": 25
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਬੰਦਾ ਸਿੰਘ ਬਹਾਦਰ",
-          "en": "Shaheedi Baba Banda Singh Bahadur"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਬੰਦਾ ਸਿੰਘ ਬਹਾਦਰ",
+            "en": "Shaheedi Baba Banda Singh Bahadur"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 6,
           "gregorianDate": 29
         },
-        "holidays": [{
-          "pa": "ਬਰਸੀ ਮਹਾਰਾਜਾ ਰਣਜੀਤ ਸਿੰਘ",
-          "en": "Death of Maharaja Ranjit Singh"
-        }]
+        "holidays": [
+          {
+            "pa": "ਬਰਸੀ ਮਹਾਰਾਜਾ ਰਣਜੀਤ ਸਿੰਘ",
+            "en": "Death of Maharaja Ranjit Singh"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 7,
           "gregorianDate": 2
         },
-        "holidays": [{
-          "pa": "ਸਿਰਜਣਾ ਦਿਵਸ ਸ਼੍ਰੀ ਅਕਾਲ ਤਖ਼ਤ ਸਾਹਿਬ",
-          "en": "Foundation Day Sri Akal Takht Sahib"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸਿਰਜਣਾ ਦਿਵਸ ਸ਼੍ਰੀ ਅਕਾਲ ਤਖ਼ਤ ਸਾਹਿਬ",
+            "en": "Foundation Day Sri Akal Takht Sahib"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 7,
           "gregorianDate": 5
         },
-        "holidays": [{
-          "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਸਾਹਿਬ ਜੀ",
-          "en": "Parkash Guru Hargobind Sahib Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਸਾਹਿਬ ਜੀ",
+            "en": "Parkash Guru Hargobind Sahib Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 7,
           "gregorianDate": 9
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਮਨੀ ਸਿੰਘ ਜੀ",
-          "en": "Shaheedi Bhai Mani Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਮਨੀ ਸਿੰਘ ਜੀ",
+            "en": "Shaheedi Bhai Mani Singh Ji"
+          }
+        ]
       }
     ],
-    "5": [{
+    "5": [
+      {
         "date": {
           "gregorianMonth": 7,
           "gregorianDate": 16
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਸੰਗਰਾਂਦ ਸਾਵਣ",
             "en": "Sangrand Savan"
           },
@@ -320,89 +374,108 @@
           "gregorianMonth": 7,
           "gregorianDate": 21
         },
-        "holidays": [{
-          "pa": "ਮੀਰੀ ਪੀਰੀ ਦਿਵਸ - ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਸਾਹਿਬ ਜੀ",
-          "en": "Miri-Piri Day - Guru Hargobind Sahib Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਮੀਰੀ ਪੀਰੀ ਦਿਵਸ - ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ ਸਾਹਿਬ ਜੀ",
+            "en": "Miri-Piri Day - Guru Hargobind Sahib Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 7,
           "gregorianDate": 23
         },
-        "holidays": [{
-          "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਹਰਿਕ੍ਰਿਸ਼ਨ ਸਾਹਿਬ ਜੀ",
-          "en": "Parkash Guru Harkrishan Sahib Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਹਰਿਕ੍ਰਿਸ਼ਨ ਸਾਹਿਬ ਜੀ",
+            "en": "Parkash Guru Harkrishan Sahib Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 8,
           "gregorianDate": 8
         },
-        "holidays": [{
-          "pa": "ਮੋਰਚਾ ਗੁਰੂ ਕਾ ਬਾਗ",
-          "en": "Morcha Guru Ka Baag"
-        }]
+        "holidays": [
+          {
+            "pa": "ਮੋਰਚਾ ਗੁਰੂ ਕਾ ਬਾਗ",
+            "en": "Morcha Guru Ka Baag"
+          }
+        ]
       }
     ],
-    "6": [{
+    "6": [
+      {
         "date": {
           "gregorianMonth": 8,
           "gregorianDate": 16
         },
-        "holidays": [{
-          "en": "ਸੰਗਰਾਂਦ ਭਾਦੋਂ",
-          "pa": "Sangrand Bhadon"
-        }]
+        "holidays": [
+          {
+            "en": "ਸੰਗਰਾਂਦ ਭਾਦੋਂ",
+            "pa": "Sangrand Bhadon"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 8,
           "gregorianDate": 20
         },
-        "holidays": [{
-          "pa": "ਬਰਸੀ ਬਾਬਾ ਬੁੱਢਾ ਜੀ",
-          "en": "Death of Baba Buddha Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਬਰਸੀ ਬਾਬਾ ਬੁੱਢਾ ਜੀ",
+            "en": "Death of Baba Buddha Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 8,
           "gregorianDate": 30
         },
-        "holidays": [{
-          "pa": "ਸੰਪੂਰਨਤਾ ਦਿਵਸ ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
-          "en": "Completion of Sri Guru Granth Sahib Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸੰਪੂਰਨਤਾ ਦਿਵਸ ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+            "en": "Completion of Sri Guru Granth Sahib Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 9,
           "gregorianDate": 1
         },
-        "holidays": [{
-          "pa": "ਪਹਿਲਾ ਪ੍ਰਕਾਸ਼ ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
-          "en": "First Parkash of Sri Guru Granth Sahib Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਪਹਿਲਾ ਪ੍ਰਕਾਸ਼ ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+            "en": "First Parkash of Sri Guru Granth Sahib Ji"
+          }
+        ]
       }
     ],
-    "7": [{
+    "7": [
+      {
         "date": {
           "gregorianMonth": 9,
           "gregorianDate": 15
         },
-        "holidays": [{
-          "pa": "ਸੰਗਰਾਂਦ ਅੱਸੂ",
-          "en": "Sangrand Assu"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸੰਗਰਾਂਦ ਅੱਸੂ",
+            "en": "Sangrand Assu"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 9,
           "gregorianDate": 16
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਗੁਰਗੱਦੀ ਗੁਰੂ ਰਾਮ ਦਾਸ ਜੀ",
             "en": "Gurgaddi Guru Ram Das Ji"
           },
@@ -425,58 +498,70 @@
           "gregorianMonth": 9,
           "gregorianDate": 18
         },
-        "holidays": [{
-          "pa": "ਗੁਰਗੱਦੀ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
-          "en": "Gurgaddi Guru Angad Dev Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਗੁਰਗੱਦੀ ਗੁਰੂ ਅੰਗਦ ਦੇਵ ਜੀ",
+            "en": "Gurgaddi Guru Angad Dev Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 9,
           "gregorianDate": 22
         },
-        "holidays": [{
-          "pa": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
-          "en": "Joti Jot Guru Nanak Dev Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜੋਤੀ-ਜੋਤਿ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+            "en": "Joti Jot Guru Nanak Dev Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 10,
           "gregorianDate": 5
         },
-        "holidays": [{
-          "pa": "ਜੋੜ ਮੇਲਾ ਬੀੜ ਬਾਬਾ ਬੁੱਢਾ ਜੀ",
-          "en": "Jorr Mela Beerh Baba Buddha Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜੋੜ ਮੇਲਾ ਬੀੜ ਬਾਬਾ ਬੁੱਢਾ ਜੀ",
+            "en": "Jorr Mela Beerh Baba Buddha Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 10,
           "gregorianDate": 9
         },
-        "holidays": [{
-          "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਰਾਮ ਦਾਸ ਜੀ",
-          "en": "Parkash Guru Ram Das Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਰਾਮ ਦਾਸ ਜੀ",
+            "en": "Parkash Guru Ram Das Ji"
+          }
+        ]
       }
     ],
-    "8": [{
+    "8": [
+      {
         "date": {
           "gregorianMonth": 10,
           "gregorianDate": 15
         },
-        "holidays": [{
-          "pa": "ਸੰਗਰਾਂਦ ਕੱਤਕ",
-          "en": "Sangrand Katak"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸੰਗਰਾਂਦ ਕੱਤਕ",
+            "en": "Sangrand Katak"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 10,
           "gregorianDate": 20
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਗੁਰਗੱਦੀ ਗੁਰੂ ਹਰਿਕ੍ਰਿਸ਼ਨ ਸਾਹਿਬ ਜੀ",
             "en": "Gurgaddi Guru Harkrishan Sahib Ji"
           },
@@ -495,7 +580,8 @@
           "gregorianMonth": 10,
           "gregorianDate": 21
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਜੋਤੀ-ਜੋਤਿ ਸ਼੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
             "en": "Joti Jot Sri Guru Gobind Singh Ji"
           },
@@ -510,58 +596,94 @@
           "gregorianMonth": 10,
           "gregorianDate": 28
         },
-        "holidays": [{
-          "pa": "ਸਾਕਾ ਪੰਜਾ ਸਾਹਿਬ",
-          "en": "Saka Panja Sahib"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸਾਕਾ ਪੰਜਾ ਸਾਹਿਬ",
+            "en": "Saka Panja Sahib"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 10,
           "gregorianDate": 31
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਬੇਅੰਤ ਸਿੰਘ",
-          "en": "Shaheedi Bhai Beant Singh"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਬੇਅੰਤ ਸਿੰਘ",
+            "en": "Shaheedi Bhai Beant Singh"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 11,
           "gregorianDate": 1
         },
-        "holidays": [{
-          "pa": "ਜਨਮ ਮਾਤਾ ਸਾਹਿਬ ਕੌਰ ਜੀ",
-          "en": "Birthday Mata Sahib Kaur Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜਨਮ ਮਾਤਾ ਸਾਹਿਬ ਕੌਰ ਜੀ",
+            "en": "Birthday Mata Sahib Kaur Ji"
+          }
+        ]
+      },
+      {
+        "date": {
+          "gregorianMonth": 11,
+          "gregorianDate": 7
+        },
+        "holidays": [
+          {
+            "pa": "ਬੰਦੀ ਛੋੜ ਦਿਵਸ",
+            "en": "Bandi Shorh Diwas"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 11,
           "gregorianDate": 13
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਦੀਪ ਸਿੰਘ ਜੀ",
-          "en": "Shaheedi Baba Deep Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਦੀਪ ਸਿੰਘ ਜੀ",
+            "en": "Shaheedi Baba Deep Singh Ji"
+          }
+        ]
       }
     ],
-    "9": [{
+    "9": [
+      {
         "date": {
           "gregorianMonth": 11,
           "gregorianDate": 14
         },
-        "holidays": [{
-          "pa": "ਸੰਗਰਾਂਦ ਮੱਘਰ",
-          "en": "Sangrand Maghar"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸੰਗਰਾਂਦ ਮੱਘਰ",
+            "en": "Sangrand Maghar"
+          }
+        ]
+      },
+      {
+        "date": {
+          "gregorianMonth": 11,
+          "gregorianDate": 23
+        },
+        "holidays": [
+          {
+            "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ",
+            "en": "Parkash - Guru Nanak Dev Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 11,
           "gregorianDate": 24
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਗੁਰਗੱਦੀ ਸ਼੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
             "en": "Gurgaddi Sri Guru Gobind Singh Ji"
           },
@@ -580,48 +702,58 @@
           "gregorianMonth": 11,
           "gregorianDate": 28
         },
-        "holidays": [{
-          "pa": "ਜਨਮ ਸਾਹਿਬਜ਼ਾਦਾ ਬਾਬਾ ਜ਼ੋਰਾਵਰ ਸਿੰਘ ਜੀ",
-          "en": "Birthday Sahibzada Baba Jorawar Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜਨਮ ਸਾਹਿਬਜ਼ਾਦਾ ਬਾਬਾ ਜ਼ੋਰਾਵਰ ਸਿੰਘ ਜੀ",
+            "en": "Birthday Sahibzada Baba Jorawar Singh Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 12,
           "gregorianDate": 2
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਗੁਰਬਖ਼ਸ਼ ਸਿੰਘ ਜੀ",
-          "en": "Shaheedi Baba Gurbaksh Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਗੁਰਬਖ਼ਸ਼ ਸਿੰਘ ਜੀ",
+            "en": "Shaheedi Baba Gurbaksh Singh Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 12,
           "gregorianDate": 12
         },
-        "holidays": [{
-          "pa": "ਜਨਮ ਸਾਹਿਬਜ਼ਾਦਾ ਬਾਬਾ ਫ਼ਤਹਿ ਸਿੰਘ ਜੀ",
-          "en": "Birthday Sahibzada Baba Fateh Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜਨਮ ਸਾਹਿਬਜ਼ਾਦਾ ਬਾਬਾ ਫ਼ਤਹਿ ਸਿੰਘ ਜੀ",
+            "en": "Birthday Sahibzada Baba Fateh Singh Ji"
+          }
+        ]
       }
     ],
-    "10": [{
+    "10": [
+      {
         "date": {
           "gregorianMonth": 12,
           "gregorianDate": 14
         },
-        "holidays": [{
-          "pa": "ਸੰਗਰਾਂਦ ਪੋਹ",
-          "en": "Sangrand Poh"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸੰਗਰਾਂਦ ਪੋਹ",
+            "en": "Sangrand Poh"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 12,
           "gregorianDate": 21
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਸ਼ਹੀਦੀ ਵੱਡੇ ਸਾਹਿਬਜ਼ਾਦੇ",
             "en": "Shaheedi Elder Sahibzaade"
           },
@@ -640,17 +772,20 @@
           "gregorianMonth": 12,
           "gregorianDate": 22
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਸੰਗਤ ਸਿੰਘ ਜੀ",
-          "en": "Shaheedi Baba Sangat Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਬਾਬਾ ਸੰਗਤ ਸਿੰਘ ਜੀ",
+            "en": "Shaheedi Baba Sangat Singh Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 12,
           "gregorianDate": 26
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਸ਼ਹੀਦੀ ਛੋਟੇ ਸਾਹਿਬਜ਼ਾਦੇ",
             "en": "Shaheedi Younger Sahibzaade"
           },
@@ -665,28 +800,34 @@
           "gregorianMonth": 1,
           "gregorianDate": 5
         },
-        "holidays": [{
-          "pa": "ਪ੍ਰਕਾਸ਼ ਸ਼੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
-          "en": "Parkash Sri Guru Gobind Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਪ੍ਰਕਾਸ਼ ਸ਼੍ਰੀ ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ ਜੀ",
+            "en": "Parkash Sri Guru Gobind Singh Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 1,
           "gregorianDate": 6
         },
-        "holidays": [{
-          "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਕੇਹਰ ਸਿੰਘ ਜੀ ਅਤੇ ਭਾਈ ਸਤਵੰਤ ਸਿੰਘ ਜੀ",
-          "en": "Shaheedi Bhai Kehar Singh Ji and Bhai Satwant Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸ਼ਹੀਦੀ ਭਾਈ ਕੇਹਰ ਸਿੰਘ ਜੀ ਅਤੇ ਭਾਈ ਸਤਵੰਤ ਸਿੰਘ ਜੀ",
+            "en": "Shaheedi Bhai Kehar Singh Ji and Bhai Satwant Singh Ji"
+          }
+        ]
       }
     ],
-    "11": [{
+    "11": [
+      {
         "date": {
           "gregorianMonth": 1,
           "gregorianDate": 13
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਸੰਗਰਾਂਦ ਮਾਘ",
             "en": "Sangrand Magh"
           },
@@ -705,78 +846,94 @@
           "gregorianMonth": 1,
           "gregorianDate": 19
         },
-        "holidays": [{
-          "pa": "ਚਾਬੀਆਂ ਦਾ ਮੋਰਚਾ",
-          "en": "Morcha for the Keys to Darbar Sahib"
-        }]
+        "holidays": [
+          {
+            "pa": "ਚਾਬੀਆਂ ਦਾ ਮੋਰਚਾ",
+            "en": "Morcha for the Keys to Darbar Sahib"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 1,
           "gregorianDate": 26
         },
-        "holidays": [{
-          "pa": "ਜਨਮ ਬਾਬਾ ਦੀਪ ਸਿੰਘ ਜੀ",
-          "en": "Birthday Baba Deep Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜਨਮ ਬਾਬਾ ਦੀਪ ਸਿੰਘ ਜੀ",
+            "en": "Birthday Baba Deep Singh Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 1,
           "gregorianDate": 31
         },
-        "holidays": [{
-          "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਹਰਿਰਾਇ ਸਾਹਿਬ ਜੀ",
-          "en": "Parkash Guru Har Rai Sahib Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਪ੍ਰਕਾਸ਼ ਗੁਰੂ ਹਰਿਰਾਇ ਸਾਹਿਬ ਜੀ",
+            "en": "Parkash Guru Har Rai Sahib Ji"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 2,
           "gregorianDate": 6
         },
-        "holidays": [{
-          "pa": "ਜੋੜ ਮੇਲਾ ਕੋਠਾ ਸਾਹਿਬ",
-          "en": "Jorr Mela Kotha Sahib"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜੋੜ ਮੇਲਾ ਕੋਠਾ ਸਾਹਿਬ",
+            "en": "Jorr Mela Kotha Sahib"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 2,
           "gregorianDate": 8
         },
-        "holidays": [{
-          "pa": "ਵੱਡਾ ਘੱਲੂਘਾਰਾ",
-          "en": "Big Ghallughara"
-        }]
+        "holidays": [
+          {
+            "pa": "ਵੱਡਾ ਘੱਲੂਘਾਰਾ",
+            "en": "Big Ghallughara"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 2,
           "gregorianDate": 11
         },
-        "holidays": [{
-          "pa": "ਜਨਮ ਸਾਹਿਬਜ਼ਾਦਾ ਬਾਬਾ ਅਜੀਤ ਸਿੰਘ ਜੀ",
-          "en": "Birthday Sahibzada Baba Ajeet Singh Ji"
-        }]
+        "holidays": [
+          {
+            "pa": "ਜਨਮ ਸਾਹਿਬਜ਼ਾਦਾ ਬਾਬਾ ਅਜੀਤ ਸਿੰਘ ਜੀ",
+            "en": "Birthday Sahibzada Baba Ajeet Singh Ji"
+          }
+        ]
       }
     ],
-    "12": [{
+    "12": [
+      {
         "date": {
           "gregorianMonth": 2,
           "gregorianDate": 12
         },
-        "holidays": [{
-          "pa": "ਸੰਗਰਾਂਦ ਫੱਗਣ",
-          "en": "Sangrand Phagun"
-        }]
+        "holidays": [
+          {
+            "pa": "ਸੰਗਰਾਂਦ ਫੱਗਣ",
+            "en": "Sangrand Phagun"
+          }
+        ]
       },
       {
         "date": {
           "gregorianMonth": 2,
           "gregorianDate": 21
         },
-        "holidays": [{
+        "holidays": [
+          {
             "pa": "ਸਾਕਾ ਨਨਕਾਣਾ ਸਾਹਿਬ",
             "en": "Saka Nankana Sahib"
           },
